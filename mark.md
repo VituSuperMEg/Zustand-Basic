@@ -1,0 +1,3 @@
+-- Sessao de produtos disponiveis
+-- Sessao do carinho de compras
+-- Total
